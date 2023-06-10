@@ -1,0 +1,19 @@
+{
+    "name": "mamoun2020/bop",
+    "description": "integration with palestine banks (bank of palestine)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mamoun2020\\Bop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mamoun Abu Salah",
+            "email": "70561744+Mamoun2020@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
