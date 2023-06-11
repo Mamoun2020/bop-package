@@ -54,7 +54,7 @@ and generates various parameters required for the payment process. These paramet
 
 ## wait in-progress
 [integration with ecommerce(blade form support or mobile web view) ]
-- support multi currency [now jus ILS]
+- support multi currency [now just ILS]
 - support blade form 
 - support enum (order status)
 - support multi driver 
